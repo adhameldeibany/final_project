@@ -21,7 +21,7 @@ class _SplashScreenState extends State<SplashScreen> {
     // TODO: implement initState
     Future.delayed(Duration(seconds: 4),(){
       Navigator.pushAndRemoveUntil(context, MaterialPageRoute(builder:
-          (context)=>LoginScreen(),
+          (context)=>OnBoarding(),
       ), (route) => true);
     });
     super.initState();
