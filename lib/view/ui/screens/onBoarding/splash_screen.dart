@@ -4,7 +4,7 @@ import 'package:final_project/view/ui/screens/home/home_main.dart';
 import 'package:final_project/view/ui/screens/home/home_screen.dart';
 import 'package:final_project/view/ui/screens/login/LogIn.dart';
 import 'package:final_project/view/ui/screens/sign_Up/signUp.dart';
-import 'package:final_project/view/ui/screens/sign_Up/verification_screen.dart';
+import 'package:final_project/view/ui/screens/login/verification_screen.dart';
 import 'package:flutter/material.dart';
 import 'on_boarding.dart';
 
